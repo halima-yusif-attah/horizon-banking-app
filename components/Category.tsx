@@ -5,7 +5,6 @@ import { cn } from "@/lib/utils";
 
 import { Progress } from "@/components/ui/progress";
 
-
 const Category = ({ category }: CategoryProps) => {
   const {
     bg,
